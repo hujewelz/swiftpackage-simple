@@ -5,3 +5,5 @@ typedef struct _Hello {
 typedef Hello *HelloRef;
 
 void say_hello(Hello h);
+
+int add(int a, int b);
