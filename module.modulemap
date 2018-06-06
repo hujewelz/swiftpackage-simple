@@ -1,5 +1,5 @@
 module SwiftPackageTest [system] {
   header "lib/hello.h"
-  link "lib/main"
+  link "hello"
   export *
 }
